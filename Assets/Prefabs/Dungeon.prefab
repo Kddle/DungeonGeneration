@@ -56,5 +56,5 @@ MonoBehaviour:
   - {fileID: 9075843806689371605, guid: 4770d5328b05e4e9098045f2deff0a84, type: 3}
   - {fileID: 1000376036358783957, guid: fc4a4cf03046742ffbdc4188e644ee40, type: 3}
   - {fileID: 5897672011956215295, guid: ee665fa2e0dd44b608c15917519c34ae, type: 3}
-  doorPrefab: {fileID: -7862475070646606093, guid: 05395e0a0e88c4abd856656a640fef15,
+  doorPrefab: {fileID: 3289868425474934733, guid: da28f0bb2299c4cb6b7b0c4c57a876a8,
     type: 3}
